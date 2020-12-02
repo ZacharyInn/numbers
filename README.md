@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Zachary Inn
+2. Student ID: 2376935
+3. Email: inn@chapman.edu
+4. Class: CPSC 298-02
 5. Assignment: numbers 
 
 ## Application Purpose
