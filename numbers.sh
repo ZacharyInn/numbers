@@ -6,7 +6,7 @@ echo "Enter a positive number: "
 
 read -r num
 
-i = 1
+i=1
 
 while [ "$i" -le "$num" ]
 do
@@ -16,5 +16,5 @@ do
 	else
 		echo "$i odd"
 	fi
-	i = $((i+1))
+	i=$((i+1))
 done
