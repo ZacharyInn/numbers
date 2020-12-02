@@ -8,9 +8,9 @@ read -r num
 
 i = 1
 
-while ["$i" -le "$num"]
+while [ "$i" -le "$num" ]
 do
-	if [$((i%2)) -eq 0]
+	if [ $((i%2)) -eq 0 ]
 	then
 		echo "$i even"
 	else
